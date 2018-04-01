@@ -1,0 +1,31 @@
+{
+  order_id: "104",
+  order_title: "Order title 4",
+  form_inputs: [
+    {
+      type: "open_field",
+      label: "Open field 1",
+      value: ""
+    },
+    {
+      type: "open_field",
+      label: "Open field 2",
+      value: ""
+    },
+    {
+      type: "open_field",
+      label: "Open field 3",
+      value: ""
+    },
+    {
+      type: "capture_image",
+      label: "Capture Image",
+      value: ""
+    },
+    {
+      type: "capture_video",
+      label: "Capture video",
+      value: ""
+    }
+  ]
+}
