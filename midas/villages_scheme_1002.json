@@ -1,0 +1,18 @@
+{
+  scheme_id: "1002",
+  scheme_name: "Scheme 1002",
+  villages: [
+    {
+      village_id: "601",
+      village_name: "Village 601"
+    },
+    {
+      village_id: "602",
+      village_name: "Village 602"
+    },
+    {
+      village_id: "603",
+      village_name: "Village 603"
+    }
+  ]
+}
